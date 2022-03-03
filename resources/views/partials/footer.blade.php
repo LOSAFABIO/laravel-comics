@@ -1,5 +1,4 @@
-<template>
-    <div class="container">
+<div class="container">
         <div class="head">
           <div class="text_head">
             <ul>
@@ -143,27 +142,27 @@
                       <li><a href="#" class="text_uppercase">follow us</a></li>
                       <li>
                         <a href="#">
-                          <img src="../assets/img/footer-facebook.png" alt="">
+                          <img src="{{asset('images/footer-facebook.png')}}" alt="">
                         </a>
                       </li>
                       <li>
                         <a href="#">
-                          <img src="../assets/img/footer-twitter.png" alt="">
+                          <img src="{{asset('images/footer-twitter.png')}}" alt="">
                         </a>
                       </li>
                       <li>
                         <a href="#">
-                          <img src="../assets/img/footer-youtube.png" alt="">
+                          <img src="{{asset('images/footer-youtube.png')}}" alt="">
                         </a>
                       </li>
                       <li>
                         <a href="#">
-                          <img src="../assets/img/footer-pinterest.png" alt="">
+                          <img src="{{asset('images/footer-pinterest.png')}}" alt="">
                         </a>
                       </li>
                       <li>
                         <a href="#">
-                          <img src="../assets/img/footer-periscope.png" alt="">
+                          <img src="{{asset('images/footer-periscope.png')}}" alt="">
                         </a>
                       </li>
                   </ul>
@@ -172,5 +171,4 @@
           </div>
         </div>
     </div>
-  </template>
   

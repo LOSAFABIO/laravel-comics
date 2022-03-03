@@ -1,4 +1,3 @@
-<template>
     <div class="container">
       <div class="text">
         <div class="streak">
@@ -20,5 +19,4 @@
         </div> 
       </div>
     </div>
-  </template>
   

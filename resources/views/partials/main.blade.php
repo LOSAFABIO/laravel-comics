@@ -1,4 +1,3 @@
-<template>
     <div class="container">
       <div class="bg-comics"></div>
       <div class="comicsbook">
@@ -9,4 +8,3 @@
         </div>
       </div>
     </div>
-  </template>
