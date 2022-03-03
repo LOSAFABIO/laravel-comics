@@ -12,7 +12,7 @@
 }
 
 .bg-comics{
-  background-image: url(../assets/img/jumbotron.jpg);
+  background-image: url(../../../public/images/jumbotron.jpg);
   height: 350px;
   width: 100%;
   background-position: top;
@@ -43,4 +43,10 @@
   font-size: 12px;
   padding: 10px 50px;
   transform: translate(-50%);
+}
+.btn_singup{
+  color: white;
+  border: solid 1px #3373e9;
+  padding: 10px 15px;
+  text-decoration: none;
 }
