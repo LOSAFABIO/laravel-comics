@@ -1,0 +1,46 @@
+
+.container{
+  background-color: $thirdColor;
+}
+
+.streak{
+  color: $secondColor;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.bg-comics{
+  background-image: url(../assets/img/jumbotron.jpg);
+  height: 350px;
+  width: 100%;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.comicsbook{
+  height: 550px;
+}
+.text{
+  position: relative;
+
+  .btn_singup{
+    background-color: $mainColor;
+  }
+}
+
+.up{
+  position: absolute;
+  top: -20px;
+}
+.down{
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  font-size: 12px;
+  padding: 10px 50px;
+  transform: translate(-50%);
+}
