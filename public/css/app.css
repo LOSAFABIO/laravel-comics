@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.text {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.text_uppercase {
+  text-transform: uppercase;
+}
+
+.streak {
+  height: 100px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
